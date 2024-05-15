@@ -1,5 +1,7 @@
 # Hackintosh GOD Edition - Erying ITX i9-13900H, DDR5 and AMD Radeon RX 6900 XT
 
+![Overview](https://github.com/luchina-gabriel/EFI-ERYING-ITX-13900H-DDR5-RX-6900-XT-PUBLIC/assets/23700365/846c07d0-3a82-45b6-b1ac-ab176f1eaa07)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.5)
